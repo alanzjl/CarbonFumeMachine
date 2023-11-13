@@ -2,7 +2,7 @@
 
 Designed by JZ, CFM is a powerful fume extrator for soldering and painting.
 
-
+![rendering](renderings/gif.gif)
 
 
 ## BOM
